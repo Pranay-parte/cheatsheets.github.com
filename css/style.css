@@ -34,11 +34,6 @@ ul li.active a{
 	background-color: #ffffff;
 	color: #ffffff;
 }
-.logo img{
-	float: left;
-	width: 50px;
-	height: 50px;
-}
 .main{
 	max-width: 1200px;
 	max-height: 760px;
